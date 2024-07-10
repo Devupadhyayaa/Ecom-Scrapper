@@ -21,7 +21,3 @@ Welcome to the E-Commerce Product Comparison Scraper project! This application a
 - **Backend**: Node.js, Express.js
 - **Scraping**: Puppeteer
 - **Deployment**: Docker (optional)
-
-## Installation
-
-1. **Clone the Repository**:
