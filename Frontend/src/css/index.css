@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.recognise{
+    padding-bottom: 4px;
+   border-bottom: 3px solid white;
+   font-weight: bolder;
+}
